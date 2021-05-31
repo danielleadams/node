@@ -7,7 +7,7 @@
       width="400"
     />
   </a>
-</p>hi
+</p>
 
 Node.js is an open-source, cross-platform, JavaScript runtime environment. It
 executes JavaScript code outside of a browser. For more information on using
